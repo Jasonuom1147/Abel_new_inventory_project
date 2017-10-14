@@ -1,0 +1,16 @@
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\bin\Release\Stock.exe.config
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\bin\Release\Stock.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\bin\Release\Stock.pdb
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\obj\Release\Stock.Login.resources
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\obj\Release\Stock.Products.resources
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\obj\Release\Stock.Properties.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\obj\Release\Stock.PStock.resources
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\obj\Release\Stock.StockMain.resources
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\obj\Release\Stock.csproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\obj\Release\Stock.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\obj\Release\Stock.pdb
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\bin\Release\Stock.exe.manifest
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\bin\Release\Stock.application
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\obj\Release\Stock.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\obj\Release\Stock.exe.manifest
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Stock\Stock\obj\Release\Stock.application
